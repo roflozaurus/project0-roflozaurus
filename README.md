@@ -1,1 +1,2 @@
-# project0
+# Project 0
+Web Programming с Python и Javascript
